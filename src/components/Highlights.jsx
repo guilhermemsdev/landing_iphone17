@@ -1,3 +1,7 @@
+import designImg from '/img/titanium-design.jpg'
+import iosImg from '/img/ios-features.jpg'
+import chipImg from '/img/chip-a18-pro.jpg'
+
 function Highlights () {
     return (
         <section className="bg-black py-20 px-6" id="design">
