@@ -1,4 +1,4 @@
-import imgiphone from '/img/iphone.png'
+import imgiphone from '../assets/hero.jpg'
 
 function Hero () {
     return (

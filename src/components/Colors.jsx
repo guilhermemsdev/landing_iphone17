@@ -1,7 +1,7 @@
 import { useState } from "react";
-import blueImg from '/img/iphone-blue.jpg'
-import silverImg from '/img/iphone-silver.jpg'
-import orangeImg from '/img/iphone-orange.jpg'
+import blueImg from '../assets/iphone-blue.jpg'
+import silverImg from '../assets/iphone-silver.jpg'
+import orangeImg from '../assets/iphone-orange.jpg'
 
 function Colors() {
   const colors = [
